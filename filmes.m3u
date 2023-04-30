@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/xzjXVtt/cinemax.png",CINEMAX - HD
+http://clienteworld.com:80/claud123/claud123/83530
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/xzjXVtt/cinemax.png",CINEMAX - HD ²
+http://clienteworld.com:80/claud123/claud123/83531
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/xzjXVtt/cinemax.png",CINEMAX - SD
+http://clienteworld.com:80/claud123/claud123/83529
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/7nQHZNM/pix.png",MEGAPIX - HD
+http://clienteworld.com:80/claud123/claud123/103677
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/7nQHZNM/pix.png",MEGAPIX - HD²
+http://clienteworld.com:80/claud123/claud123/103678
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/7nQHZNM/pix.png",MEGAPIX - SD
+http://clienteworld.com:80/claud123/claud123/103676
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/7KPtMK5/space.png",SPACE - HD
+http://clienteworld.com:80/claud123/claud123/83578
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/7KPtMK5/space.png",SPACE - HD²
+http://clienteworld.com:80/claud123/claud123/83579
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/7KPtMK5/space.png",SPACE - SD
+http://clienteworld.com:80/claud123/claud123/83577
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/FBNMhdg/studio.jpg",STUDIO UNIVERSAL - HD
+http://clienteworld.com:80/claud123/claud123/83584
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/FBNMhdg/studio.jpg",STUDIO UNIVERSAL - SD
+http://clienteworld.com:80/claud123/claud123/83582
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/FBNMhdg/studio.jpg",STUDIO UNIVERSAL - SD²
+http://clienteworld.com:80/claud123/claud123/83583
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/P6Sq7Sj/tntseries.jpg",TNT SERIES - HD
+http://clienteworld.com:80/claud123/claud123/83591
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/P6Sq7Sj/tntseries.jpg",TNT SERIES - HD²
+http://clienteworld.com:80/claud123/claud123/83592
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/P6Sq7Sj/tntseries.jpg",TNT SERIES - SD
+http://clienteworld.com:80/claud123/claud123/83590
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/wRYMcXc/tnrt.jpg",TNT - HD
+http://clienteworld.com:80/claud123/claud123/83588
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/wRYMcXc/tnrt.jpg",TNT - HD²
+http://clienteworld.com:80/claud123/claud123/88880
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/wRYMcXc/tnrt.jpg",TNT - SD
+http://clienteworld.com:80/claud123/claud123/83587
+#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://i.ibb.co/wRYMcXc/tnrt.jpg",TNT - SD²
+http://clienteworld.com:80/claud123/claud123/88879

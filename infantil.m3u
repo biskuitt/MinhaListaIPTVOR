@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/QMW2Nkc/cartoon.png",CARTOON NETWORK - HD
+http://clienteworld.com:80/claud123/claud123/83444
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/QMW2Nkc/cartoon.png",CARTOON NETWORK - SD
+http://clienteworld.com:80/claud123/claud123/83443
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/bdLTNqR/kids.png",DISCOVERY KIDS - HD
+http://clienteworld.com:80/claud123/claud123/83451
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/bdLTNqR/kids.png",DISCOVERY KIDS - HD  ²
+http://clienteworld.com:80/claud123/claud123/83452
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/bdLTNqR/kids.png",DISCOVERY KIDS - SD
+http://clienteworld.com:80/claud123/claud123/83449
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/bdLTNqR/kids.png",DISCOVERY KIDS - SD ²
+http://clienteworld.com:80/claud123/claud123/83450
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/PryGGMQ/dis-ch.jpg",DISNEY CHANNEL - HD
+http://clienteworld.com:80/claud123/claud123/83446
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/PryGGMQ/dis-ch.jpg",DISNEY CHANNEL - SD
+http://clienteworld.com:80/claud123/claud123/83454
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/NZVSy95/9.jpg",NICKELODEON - HD
+http://clienteworld.com:80/claud123/claud123/83479
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/NZVSy95/9.jpg",NICKELODEON - SD
+http://clienteworld.com:80/claud123/claud123/83478

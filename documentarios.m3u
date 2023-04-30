@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9animal",ANIMAL PLANET - HD
+http://clienteworld.com:80/claud123/claud123/82901
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9animal",ANIMAL PLANET - HD²
+http://clienteworld.com:80/claud123/claud123/82902
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9animal",ANIMAL PLANET - SD
+http://clienteworld.com:80/claud123/claud123/82899
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9animal",ANIMAL PLANET - SD²
+http://clienteworld.com:80/claud123/claud123/82900
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9hist",HISTORY - HD
+http://clienteworld.com:80/claud123/claud123/82934
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9hist",HISTORY - HD²
+http://clienteworld.com:80/claud123/claud123/82935
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9hist",HISTORY - SD
+http://clienteworld.com:80/claud123/claud123/82932
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9hist",HISTORY - SD²
+http://clienteworld.com:80/claud123/claud123/82933
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Zhfptr4/disc.png",DISCOVERY CHANNEL - SD
+http://clienteworld.com:80/claud123/claud123/82905
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Zhfptr4/disc.png",DISCOVERY CHANNEL - SD²
+http://clienteworld.com:80/claud123/claud123/82906
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Zhfptr4/disc.png",DISCOVERY CHANNEL - HD
+http://clienteworld.com:80/claud123/claud123/82907
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Zhfptr4/disc.png",DISCOVERY CHANNEL - HD²
+http://clienteworld.com:80/claud123/claud123/82908
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9diswor",DISCOVERY WORLD - HD
+http://clienteworld.com:80/claud123/claud123/82930
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9diswor",DISCOVERY WORLD - SD
+http://clienteworld.com:80/claud123/claud123/82929
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9natgeo",NAT GEO - HD
+http://clienteworld.com:80/claud123/claud123/82947
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9natgeo",NAT GEO - HD²
+http://clienteworld.com:80/claud123/claud123/82948
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9natgeo",NAT GEO - SD
+http://clienteworld.com:80/claud123/claud123/82946
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9his2",H2 - HD
+http://clienteworld.com:80/claud123/claud123/82940
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9his2",H2 - HD²
+http://clienteworld.com:80/claud123/claud123/82939
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9his2",H2 - SD
+http://clienteworld.com:80/claud123/claud123/82937
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://tinyurl.com/u9his2",H2 - SD²
+http://clienteworld.com:80/claud123/claud123/82938
